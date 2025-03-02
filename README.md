@@ -6,7 +6,7 @@ Cluster Transactions: Identify natural groupings or clusters within the data, re
 Provide Insights: Generate actionable insights for businesses to improve their operations and strategies.
 
 # Key Objectives
-To develop a robust predictive model for transaction classification.
-Implementing clustering algorithms to identify meaningful customer and product segments.
-Visualizing and interpreting the results to provide actionable business insights.
-Optimize inventory management based on transaction patterns.
+1. To develop a robust predictive model for transaction classification.
+2. Implementing clustering algorithms to identify meaningful customer and product segments.
+3. Visualizing and interpreting the results to provide actionable business insights.
+4. Optimize inventory management based on transaction patterns.
